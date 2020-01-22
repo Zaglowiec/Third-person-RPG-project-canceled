@@ -1,4 +1,4 @@
-# Third-person-RPG-project-canceled-
+# Third-person-RPG (project-canceled)
 
 Brave Knight
 The game made on the Unity 5.x
